@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b591ca0d6ffa1d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "4214b86c7ababecd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fa706848c2c1966",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14f488066cf6e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bceaa10b5bb257f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44c7d262cb9d4b79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c757cc3963f6d271",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f27b6f51e7bf1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c12b7129a0d897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4214b86c7ababecd",
+  "lastOpenFiles": [
+    "Document/04 - Advanced/Services.md",
+    "Document/04 - Advanced/Advanced.md",
+    "Document/04 - Advanced/Naming Conventions.md",
+    "Document/04 - Advanced/Options.md",
+    "Document/04 - Advanced/Integer Types.md",
+    "Document/04 - Advanced/Advanced Data Types.md",
+    "Document/03 - Data Evolution/Removing Fields.md",
+    "Document/01 - Basic 1/Types.md",
+    "Document/03 - Data Evolution/Data Evolution.md",
+    "Document/01 - Basic 1/Basics 1.md"
+  ]
+}

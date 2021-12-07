@@ -1,0 +1,19 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "protobuf",
+    "proto",
+    "nbsp",
+    "Enums",
+    "Enum",
+    "Protoc",
+    "MacOSX",
+    "codebase",
+    "OneOf",
+    "oneof",
+    "protoc",
+    "CamelCase",
+    "gRPC",
+    "CoreOS"
+  ]
+}
