@@ -31,5 +31,6 @@ _If it's working for Google, there's a great chance it will be working for you!_
 ---
 
 In the following please read [[Basics 1]] concept.
+Also you can read some [[Examples]]
 
 ---

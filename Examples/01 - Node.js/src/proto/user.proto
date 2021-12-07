@@ -1,0 +1,18 @@
+syntax = "proto3";
+package com.example.user;
+
+message User {
+  int32 id = 1;
+  string first_name = 2;
+  string last_name = 3;
+  repeated PhoneNumber phone_numbers = 4;
+  UserType type = 5;
+}
+
+message PhoneNumber { string number = 1; }
+
+enum UserType {
+  UNKNOWN = 0;
+  USER = 1;
+  ADMIN = 2;
+}
