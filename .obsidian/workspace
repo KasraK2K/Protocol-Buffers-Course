@@ -7,11 +7,8 @@
         "id": "4214b86c7ababecd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Document/01 - Basic 1/Basics 1.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document/01 - Basic 1/Basics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "4214b86c7ababecd",
   "lastOpenFiles": [
+    "Document/01 - Basic 1/Enums.md",
+    "Document/04 - Advanced/Options.md",
+    "Document/03 - Data Evolution/Beware of Defaults.md",
     "Document/01 - Basic 1/Basics 1.md",
     "Document/Pros & Cons.md",
     "README.md",
     "Examples/Examples.md",
     "Examples/01 - Node.js/Node.js.md",
     "Document/02 - Basic 2/Setup Protoc Compiler.md",
-    "Document/02 - Basic 2/Basics 2.md",
-    "Document/03 - Data Evolution/Data Evolution.md",
-    "Document/03 - Data Evolution/Beware of Defaults.md",
-    "Document/04 - Advanced/Services.md"
+    "Document/02 - Basic 2/Basics 2.md"
   ]
 }
